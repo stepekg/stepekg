@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Grzegorz Stepaniuk 👋
 
-<!--
-**stepekg/stepekg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Developer specializing in business software and ERP solutions.
 
-Here are some ideas to get you started:
+## 🚀 Specialization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Comarch ERP
+- KSeF integrations
+- REST APIs
+- PostgreSQL
+- Business Process Automation
+
+## 💻 Technologies
+
+- .NET
+- C#
+- ASP.NET Core
+- Blazor
+- PostgreSQL
+- SQL
+- Docker
+- Linux
+- Redis
+
+## 🔨 Current project
+
+**GStech Faktury**
+
+A modern invoicing platform with KSeF and JPK support.
+
+## 🌍 Website
+
+https://gstech.com.pl
+
+## 📫 Contact
+
+- Website: https://gstech.com.pl
+- LinkedIn: https://www.linkedin.com/in/grzegorz-stepaniuk-11677a327/
